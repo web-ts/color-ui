@@ -1,0 +1,176 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`CButton > should render a button in the loading state 1`] = `
+<div>
+  <button
+    class="_CButton_4ca42b _CButton_solid_4ca42b _CButton_md_4ca42b "
+    style="--color-button-base: var(--color-primary-base); --color-button-base-text: var(--color-primary-base-text); --color-button-light: var(--color-primary-light); --color-button-light-text: var(--color-primary-light-text); --color-button-lighter: var(--color-primary-lighter); --color-button-lighter-text: var(--color-primary-lighter-text); --color-button-lightest: var(--color-primary-lightest); --color-button-lightest-text: var(--color-primary-lightest-text); --color-button-dark: var(--color-primary-dark); --color-button-dark-text: var(--color-primary-dark-text); --color-button-darker: var(--color-primary-darker); --color-button-darker-text: var(--color-primary-darker-text); --color-button-darkest: var(--color-primary-darkest); --color-button-darkest-text: var(--color-primary-darkest-text);"
+  >
+    Test
+  </button>
+</div>
+`;
+
+exports[`CButton > should render a button in the loading state with a custom loading icon 1`] = `
+<div>
+  <button
+    class="_CButton_4ca42b _CButton_solid_4ca42b _CButton_md_4ca42b "
+    style="--color-button-base: var(--color-primary-base); --color-button-base-text: var(--color-primary-base-text); --color-button-light: var(--color-primary-light); --color-button-light-text: var(--color-primary-light-text); --color-button-lighter: var(--color-primary-lighter); --color-button-lighter-text: var(--color-primary-lighter-text); --color-button-lightest: var(--color-primary-lightest); --color-button-lightest-text: var(--color-primary-lightest-text); --color-button-dark: var(--color-primary-dark); --color-button-dark-text: var(--color-primary-dark-text); --color-button-darker: var(--color-primary-darker); --color-button-darker-text: var(--color-primary-darker-text); --color-button-darkest: var(--color-primary-darkest); --color-button-darkest-text: var(--color-primary-darkest-text);"
+  >
+    Test
+  </button>
+</div>
+`;
+
+exports[`CButton > should render a default button 1`] = `
+<div>
+  <button
+    class="_CButton_4ca42b _CButton_solid_4ca42b _CButton_md_4ca42b "
+    style="--color-button-base: var(--color-primary-base); --color-button-base-text: var(--color-primary-base-text); --color-button-light: var(--color-primary-light); --color-button-light-text: var(--color-primary-light-text); --color-button-lighter: var(--color-primary-lighter); --color-button-lighter-text: var(--color-primary-lighter-text); --color-button-lightest: var(--color-primary-lightest); --color-button-lightest-text: var(--color-primary-lightest-text); --color-button-dark: var(--color-primary-dark); --color-button-dark-text: var(--color-primary-dark-text); --color-button-darker: var(--color-primary-darker); --color-button-darker-text: var(--color-primary-darker-text); --color-button-darkest: var(--color-primary-darkest); --color-button-darkest-text: var(--color-primary-darkest-text);"
+  >
+    Test
+  </button>
+</div>
+`;
+
+exports[`CButton > should render all buton variant types 1`] = `
+<div>
+  <button
+    class="_CButton_4ca42b _CButton_solid_4ca42b _CButton_md_4ca42b "
+    style="--color-button-base: var(--color-primary-base); --color-button-base-text: var(--color-primary-base-text); --color-button-light: var(--color-primary-light); --color-button-light-text: var(--color-primary-light-text); --color-button-lighter: var(--color-primary-lighter); --color-button-lighter-text: var(--color-primary-lighter-text); --color-button-lightest: var(--color-primary-lightest); --color-button-lightest-text: var(--color-primary-lightest-text); --color-button-dark: var(--color-primary-dark); --color-button-dark-text: var(--color-primary-dark-text); --color-button-darker: var(--color-primary-darker); --color-button-darker-text: var(--color-primary-darker-text); --color-button-darkest: var(--color-primary-darkest); --color-button-darkest-text: var(--color-primary-darkest-text);"
+  >
+    Test
+  </button>
+  <button
+    class="_CButton_4ca42b _CButton_outline_4ca42b _CButton_md_4ca42b "
+    style="--color-button-base: var(--color-primary-base); --color-button-base-text: var(--color-primary-base-text); --color-button-light: var(--color-primary-light); --color-button-light-text: var(--color-primary-light-text); --color-button-lighter: var(--color-primary-lighter); --color-button-lighter-text: var(--color-primary-lighter-text); --color-button-lightest: var(--color-primary-lightest); --color-button-lightest-text: var(--color-primary-lightest-text); --color-button-dark: var(--color-primary-dark); --color-button-dark-text: var(--color-primary-dark-text); --color-button-darker: var(--color-primary-darker); --color-button-darker-text: var(--color-primary-darker-text); --color-button-darkest: var(--color-primary-darkest); --color-button-darkest-text: var(--color-primary-darkest-text);"
+  >
+    Test
+  </button>
+  <button
+    class="_CButton_4ca42b _CButton_text_4ca42b _CButton_md_4ca42b "
+    style="--color-button-base: var(--color-primary-base); --color-button-base-text: var(--color-primary-base-text); --color-button-light: var(--color-primary-light); --color-button-light-text: var(--color-primary-light-text); --color-button-lighter: var(--color-primary-lighter); --color-button-lighter-text: var(--color-primary-lighter-text); --color-button-lightest: var(--color-primary-lightest); --color-button-lightest-text: var(--color-primary-lightest-text); --color-button-dark: var(--color-primary-dark); --color-button-dark-text: var(--color-primary-dark-text); --color-button-darker: var(--color-primary-darker); --color-button-darker-text: var(--color-primary-darker-text); --color-button-darkest: var(--color-primary-darkest); --color-button-darkest-text: var(--color-primary-darkest-text);"
+  >
+    Test
+  </button>
+</div>
+`;
+
+exports[`CButton > should render all color variants 1`] = `
+<div>
+  <button
+    class="_CButton_4ca42b _CButton_solid_4ca42b _CButton_md_4ca42b "
+    style="--color-button-base: var(--color-primary-base); --color-button-base-text: var(--color-primary-base-text); --color-button-light: var(--color-primary-light); --color-button-light-text: var(--color-primary-light-text); --color-button-lighter: var(--color-primary-lighter); --color-button-lighter-text: var(--color-primary-lighter-text); --color-button-lightest: var(--color-primary-lightest); --color-button-lightest-text: var(--color-primary-lightest-text); --color-button-dark: var(--color-primary-dark); --color-button-dark-text: var(--color-primary-dark-text); --color-button-darker: var(--color-primary-darker); --color-button-darker-text: var(--color-primary-darker-text); --color-button-darkest: var(--color-primary-darkest); --color-button-darkest-text: var(--color-primary-darkest-text);"
+  >
+    Test
+  </button>
+  <button
+    class="_CButton_4ca42b _CButton_solid_4ca42b _CButton_md_4ca42b "
+    style="--color-button-base: var(--color-secondary-base); --color-button-base-text: var(--color-secondary-base-text); --color-button-light: var(--color-secondary-light); --color-button-light-text: var(--color-secondary-light-text); --color-button-lighter: var(--color-secondary-lighter); --color-button-lighter-text: var(--color-secondary-lighter-text); --color-button-lightest: var(--color-secondary-lightest); --color-button-lightest-text: var(--color-secondary-lightest-text); --color-button-dark: var(--color-secondary-dark); --color-button-dark-text: var(--color-secondary-dark-text); --color-button-darker: var(--color-secondary-darker); --color-button-darker-text: var(--color-secondary-darker-text); --color-button-darkest: var(--color-secondary-darkest); --color-button-darkest-text: var(--color-secondary-darkest-text);"
+  >
+    Test
+  </button>
+  <button
+    class="_CButton_4ca42b _CButton_solid_4ca42b _CButton_md_4ca42b "
+    style="--color-button-base: var(--color-success-base); --color-button-base-text: var(--color-success-base-text); --color-button-light: var(--color-success-light); --color-button-light-text: var(--color-success-light-text); --color-button-lighter: var(--color-success-lighter); --color-button-lighter-text: var(--color-success-lighter-text); --color-button-lightest: var(--color-success-lightest); --color-button-lightest-text: var(--color-success-lightest-text); --color-button-dark: var(--color-success-dark); --color-button-dark-text: var(--color-success-dark-text); --color-button-darker: var(--color-success-darker); --color-button-darker-text: var(--color-success-darker-text); --color-button-darkest: var(--color-success-darkest); --color-button-darkest-text: var(--color-success-darkest-text);"
+  >
+    Test
+  </button>
+  <button
+    class="_CButton_4ca42b _CButton_solid_4ca42b _CButton_md_4ca42b "
+    style="--color-button-base: var(--color-warning-base); --color-button-base-text: var(--color-warning-base-text); --color-button-light: var(--color-warning-light); --color-button-light-text: var(--color-warning-light-text); --color-button-lighter: var(--color-warning-lighter); --color-button-lighter-text: var(--color-warning-lighter-text); --color-button-lightest: var(--color-warning-lightest); --color-button-lightest-text: var(--color-warning-lightest-text); --color-button-dark: var(--color-warning-dark); --color-button-dark-text: var(--color-warning-dark-text); --color-button-darker: var(--color-warning-darker); --color-button-darker-text: var(--color-warning-darker-text); --color-button-darkest: var(--color-warning-darkest); --color-button-darkest-text: var(--color-warning-darkest-text);"
+  >
+    Test
+  </button>
+  <button
+    class="_CButton_4ca42b _CButton_solid_4ca42b _CButton_md_4ca42b "
+    style="--color-button-base: var(--color-danger-base); --color-button-base-text: var(--color-danger-base-text); --color-button-light: var(--color-danger-light); --color-button-light-text: var(--color-danger-light-text); --color-button-lighter: var(--color-danger-lighter); --color-button-lighter-text: var(--color-danger-lighter-text); --color-button-lightest: var(--color-danger-lightest); --color-button-lightest-text: var(--color-danger-lightest-text); --color-button-dark: var(--color-danger-dark); --color-button-dark-text: var(--color-danger-dark-text); --color-button-darker: var(--color-danger-darker); --color-button-darker-text: var(--color-danger-darker-text); --color-button-darkest: var(--color-danger-darkest); --color-button-darkest-text: var(--color-danger-darkest-text);"
+  >
+    Test
+  </button>
+  <button
+    class="_CButton_4ca42b _CButton_solid_4ca42b _CButton_md_4ca42b "
+    style="--color-button-base: var(--color-info-base); --color-button-base-text: var(--color-info-base-text); --color-button-light: var(--color-info-light); --color-button-light-text: var(--color-info-light-text); --color-button-lighter: var(--color-info-lighter); --color-button-lighter-text: var(--color-info-lighter-text); --color-button-lightest: var(--color-info-lightest); --color-button-lightest-text: var(--color-info-lightest-text); --color-button-dark: var(--color-info-dark); --color-button-dark-text: var(--color-info-dark-text); --color-button-darker: var(--color-info-darker); --color-button-darker-text: var(--color-info-darker-text); --color-button-darkest: var(--color-info-darkest); --color-button-darkest-text: var(--color-info-darkest-text);"
+  >
+    Test
+  </button>
+</div>
+`;
+
+exports[`CButton > should render all size variants 1`] = `
+<div>
+  <button
+    class="_CButton_4ca42b _CButton_solid_4ca42b _CButton_xs_4ca42b "
+    style="--color-button-base: var(--color-primary-base); --color-button-base-text: var(--color-primary-base-text); --color-button-light: var(--color-primary-light); --color-button-light-text: var(--color-primary-light-text); --color-button-lighter: var(--color-primary-lighter); --color-button-lighter-text: var(--color-primary-lighter-text); --color-button-lightest: var(--color-primary-lightest); --color-button-lightest-text: var(--color-primary-lightest-text); --color-button-dark: var(--color-primary-dark); --color-button-dark-text: var(--color-primary-dark-text); --color-button-darker: var(--color-primary-darker); --color-button-darker-text: var(--color-primary-darker-text); --color-button-darkest: var(--color-primary-darkest); --color-button-darkest-text: var(--color-primary-darkest-text);"
+  >
+    Test
+  </button>
+  <button
+    class="_CButton_4ca42b _CButton_solid_4ca42b _CButton_sm_4ca42b "
+    style="--color-button-base: var(--color-primary-base); --color-button-base-text: var(--color-primary-base-text); --color-button-light: var(--color-primary-light); --color-button-light-text: var(--color-primary-light-text); --color-button-lighter: var(--color-primary-lighter); --color-button-lighter-text: var(--color-primary-lighter-text); --color-button-lightest: var(--color-primary-lightest); --color-button-lightest-text: var(--color-primary-lightest-text); --color-button-dark: var(--color-primary-dark); --color-button-dark-text: var(--color-primary-dark-text); --color-button-darker: var(--color-primary-darker); --color-button-darker-text: var(--color-primary-darker-text); --color-button-darkest: var(--color-primary-darkest); --color-button-darkest-text: var(--color-primary-darkest-text);"
+  >
+    Test
+  </button>
+  <button
+    class="_CButton_4ca42b _CButton_solid_4ca42b _CButton_md_4ca42b "
+    style="--color-button-base: var(--color-primary-base); --color-button-base-text: var(--color-primary-base-text); --color-button-light: var(--color-primary-light); --color-button-light-text: var(--color-primary-light-text); --color-button-lighter: var(--color-primary-lighter); --color-button-lighter-text: var(--color-primary-lighter-text); --color-button-lightest: var(--color-primary-lightest); --color-button-lightest-text: var(--color-primary-lightest-text); --color-button-dark: var(--color-primary-dark); --color-button-dark-text: var(--color-primary-dark-text); --color-button-darker: var(--color-primary-darker); --color-button-darker-text: var(--color-primary-darker-text); --color-button-darkest: var(--color-primary-darkest); --color-button-darkest-text: var(--color-primary-darkest-text);"
+  >
+    Test
+  </button>
+  <button
+    class="_CButton_4ca42b _CButton_solid_4ca42b _CButton_lg_4ca42b "
+    style="--color-button-base: var(--color-primary-base); --color-button-base-text: var(--color-primary-base-text); --color-button-light: var(--color-primary-light); --color-button-light-text: var(--color-primary-light-text); --color-button-lighter: var(--color-primary-lighter); --color-button-lighter-text: var(--color-primary-lighter-text); --color-button-lightest: var(--color-primary-lightest); --color-button-lightest-text: var(--color-primary-lightest-text); --color-button-dark: var(--color-primary-dark); --color-button-dark-text: var(--color-primary-dark-text); --color-button-darker: var(--color-primary-darker); --color-button-darker-text: var(--color-primary-darker-text); --color-button-darkest: var(--color-primary-darkest); --color-button-darkest-text: var(--color-primary-darkest-text);"
+  >
+    Test
+  </button>
+  <button
+    class="_CButton_4ca42b _CButton_solid_4ca42b _CButton_xl_4ca42b "
+    style="--color-button-base: var(--color-primary-base); --color-button-base-text: var(--color-primary-base-text); --color-button-light: var(--color-primary-light); --color-button-light-text: var(--color-primary-light-text); --color-button-lighter: var(--color-primary-lighter); --color-button-lighter-text: var(--color-primary-lighter-text); --color-button-lightest: var(--color-primary-lightest); --color-button-lightest-text: var(--color-primary-lightest-text); --color-button-dark: var(--color-primary-dark); --color-button-dark-text: var(--color-primary-dark-text); --color-button-darker: var(--color-primary-darker); --color-button-darker-text: var(--color-primary-darker-text); --color-button-darkest: var(--color-primary-darkest); --color-button-darkest-text: var(--color-primary-darkest-text);"
+  >
+    Test
+  </button>
+</div>
+`;
+
+exports[`CButton > should render an anchor tag when href is provided 1`] = `
+<div>
+  <a
+    class="_CButton_4ca42b _CButton_solid_4ca42b _CButton_md_4ca42b "
+    href="https://google.com"
+    style="--color-button-base: var(--color-primary-base); --color-button-base-text: var(--color-primary-base-text); --color-button-light: var(--color-primary-light); --color-button-light-text: var(--color-primary-light-text); --color-button-lighter: var(--color-primary-lighter); --color-button-lighter-text: var(--color-primary-lighter-text); --color-button-lightest: var(--color-primary-lightest); --color-button-lightest-text: var(--color-primary-lightest-text); --color-button-dark: var(--color-primary-dark); --color-button-dark-text: var(--color-primary-dark-text); --color-button-darker: var(--color-primary-darker); --color-button-darker-text: var(--color-primary-darker-text); --color-button-darkest: var(--color-primary-darkest); --color-button-darkest-text: var(--color-primary-darkest-text);"
+  >
+    Test
+  </a>
+</div>
+`;
+
+exports[`CButton > should render an anchor tag when href is provided 2`] = `
+<div>
+  <a
+    class="_CButton_4ca42b _CButton_solid_4ca42b _CButton_md_4ca42b inactive"
+    href="/page"
+    link=""
+    routerlink="true"
+    style="--color-button-base: var(--color-primary-base); --color-button-base-text: var(--color-primary-base-text); --color-button-light: var(--color-primary-light); --color-button-light-text: var(--color-primary-light-text); --color-button-lighter: var(--color-primary-lighter); --color-button-lighter-text: var(--color-primary-lighter-text); --color-button-lightest: var(--color-primary-lightest); --color-button-lightest-text: var(--color-primary-lightest-text); --color-button-dark: var(--color-primary-dark); --color-button-dark-text: var(--color-primary-dark-text); --color-button-darker: var(--color-primary-darker); --color-button-darker-text: var(--color-primary-darker-text); --color-button-darkest: var(--color-primary-darkest); --color-button-darkest-text: var(--color-primary-darkest-text);"
+  >
+    Test
+  </a>
+</div>
+`;
+
+exports[`CButton > should render buttons with all options 1`] = `
+<div>
+  <button
+    class="_CButton_4ca42b _CButton_outline_4ca42b _CButton_sm_4ca42b "
+    style="--color-button-base: var(--color-primary-base); --color-button-base-text: var(--color-primary-base-text); --color-button-light: var(--color-primary-light); --color-button-light-text: var(--color-primary-light-text); --color-button-lighter: var(--color-primary-lighter); --color-button-lighter-text: var(--color-primary-lighter-text); --color-button-lightest: var(--color-primary-lightest); --color-button-lightest-text: var(--color-primary-lightest-text); --color-button-dark: var(--color-primary-dark); --color-button-dark-text: var(--color-primary-dark-text); --color-button-darker: var(--color-primary-darker); --color-button-darker-text: var(--color-primary-darker-text); --color-button-darkest: var(--color-primary-darkest); --color-button-darkest-text: var(--color-primary-darkest-text);"
+  >
+    Test
+  </button>
+  <button
+    class="_CButton_4ca42b _CButton_text_4ca42b _CButton_lg_4ca42b "
+    style="--color-button-base: var(--color-secondary-base); --color-button-base-text: var(--color-secondary-base-text); --color-button-light: var(--color-secondary-light); --color-button-light-text: var(--color-secondary-light-text); --color-button-lighter: var(--color-secondary-lighter); --color-button-lighter-text: var(--color-secondary-lighter-text); --color-button-lightest: var(--color-secondary-lightest); --color-button-lightest-text: var(--color-secondary-lightest-text); --color-button-dark: var(--color-secondary-dark); --color-button-dark-text: var(--color-secondary-dark-text); --color-button-darker: var(--color-secondary-darker); --color-button-darker-text: var(--color-secondary-darker-text); --color-button-darkest: var(--color-secondary-darkest); --color-button-darkest-text: var(--color-secondary-darkest-text);"
+  >
+    Test
+  </button>
+</div>
+`;

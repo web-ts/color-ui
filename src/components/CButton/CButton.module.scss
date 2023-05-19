@@ -1,0 +1,76 @@
+.CButton {
+  cursor: pointer;
+  transition: background-color var(--c-default-transition),
+    border var(--c-default-transition);
+  border-radius: var(--c-rounded);
+
+  &:focus-visible {
+    box-shadow: 0 0 0 3px rgba(var(--color-button-base), 0.3);
+  }
+  &_solid {
+    background-color: rgb(var(--color-button-base));
+    border: 1px solid rgb(var(--color-button-base));
+    color: rgb(var(--color-button-base-text));
+    &:hover {
+      background-color: rgb(var(--color-button-light));
+      border: 1px solid rgb(var(--color-button-light));
+    }
+    &:active {
+      background-color: rgb(var(--color-button-lighter));
+      border: 1px solid rgb(var(--color-button-lighter));
+    }
+  }
+
+  &_outline {
+    background-color: rgba(var(--color-button-light), 0.1);
+    border: 1px solid rgb(var(--color-button-base));
+    color: rgb(var(--color-button-base));
+    &:hover {
+      background-color: rgba(var(--color-button-light), 0.2);
+      border: 1px solid rgb(var(--color-button-light));
+    }
+    &:active {
+      background-color: rgba(var(--color-button-lighter), 0.3);
+      border: 1px solid rgb(var(--color-button-lighter));
+    }
+  }
+
+  &_text {
+    background-color: transparent;
+    border: 1px solid transparent;
+    color: rgb(var(--color-button-base));
+    &:hover {
+      background-color: rgba(var(--color-button-light), 0.2);
+    }
+    &:active {
+      background-color: rgba(var(--color-button-lighter), 0.3);
+    }
+  }
+
+  &_xs {
+    padding: var(--c-xs-padding) var(--c-md-padding) var(--c-xs-padding)
+      var(--c-md-padding);
+    font-size: var(--c-xs-font-size);
+  }
+
+  &_sm {
+    padding: var(--c-sm-padding) var(--c-lg-padding) var(--c-sm-padding)
+      var(--c-lg-padding);
+    font-size: var(--c-sm-font-size);
+  }
+  &_md {
+    padding: var(--c-md-padding) var(--c-xl-padding) var(--c-md-padding)
+      var(--c-xl-padding);
+    font-size: var(--c-md-font-size);
+  }
+  &_lg {
+    padding: var(--c-lg-padding) var(--c-2xl-padding) var(--c-lg-padding)
+      var(--c-2xl-padding);
+    font-size: var(--c-lg-font-size);
+  }
+  &_xl {
+    padding: var(--c-xl-padding) var(--c-3xl-padding) var(--c-xl-padding)
+      var(--c-3xl-padding);
+    font-size: var(--c-xl-font-size);
+  }
+}

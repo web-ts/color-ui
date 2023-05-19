@@ -1,0 +1,15 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`CDialogContent > should render children 1`] = `
+<div>
+  <div
+    aria-modal="true"
+    class="_CDialog_45f97f"
+    role="dialog"
+  >
+    <div>
+      Test
+    </div>
+  </div>
+</div>
+`;

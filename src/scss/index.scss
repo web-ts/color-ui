@@ -1,0 +1,25 @@
+@use "./reset.scss";
+@use "./colors.scss";
+
+* {
+  --c-default-transition: 0.3s ease-in-out;
+
+  --c-xs-padding: 2px;
+  --c-sm-padding: 4px;
+  --c-md-padding: 8px;
+  --c-lg-padding: 12px;
+  --c-xl-padding: 16px;
+  --c-2xl-padding: 20px;
+  --c-3xl-padding: 24px;
+
+  --c-xs-font-size: 12px;
+  --c-sm-font-size: 14px;
+  --c-md-font-size: 16px;
+  --c-lg-font-size: 18px;
+  --c-xl-font-size: 20px;
+  --c-2xl-font-size: 22px;
+  --c-3xl-font-size: 24px;
+
+  --c-rounded: 4px;
+  --c-rounded-lg: 8px;
+}

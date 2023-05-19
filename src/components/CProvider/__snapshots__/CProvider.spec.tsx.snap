@@ -1,0 +1,257 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`CProvider > should render children 1`] = `
+<div>
+  <div
+    class="_CProvider_4c759e "
+    id="color-ui-provider"
+  >
+    <div>
+      Test
+    </div>
+  </div>
+</div>
+`;
+
+exports[`CProvider > should render the dark variant 1`] = `
+"* {
+  --color-primary-base: 26, 188, 156;
+  --color-primary-base-text: 9, 9, 9;
+  --color-primary-light: 51, 213, 181;
+  --color-primary-light-text: 9, 9, 9;
+  --color-primary-lighter: 77, 239, 207;
+  --color-primary-lighter-text: 9, 9, 9;
+  --color-primary-lightest: 102, 255, 232;
+  --color-primary-lightest-text: 9, 9, 9;
+  --color-primary-dark: 1, 163, 131;
+  --color-primary-dark-text: 9, 9, 9;
+  --color-primary-darker: 0, 137, 105;
+  --color-primary-darker-text: 254, 254, 254;
+  --color-primary-darkest: 0, 112, 80;
+  --color-primary-darkest-text: 254, 254, 254;
+  --color-secondary-base: 189, 195, 199;
+  --color-secondary-base-text: 9, 9, 9;
+  --color-secondary-light: 214, 220, 224;
+  --color-secondary-light-text: 9, 9, 9;
+  --color-secondary-lighter: 240, 246, 250;
+  --color-secondary-lighter-text: 9, 9, 9;
+  --color-secondary-lightest: 255, 255, 255;
+  --color-secondary-lightest-text: 9, 9, 9;
+  --color-secondary-dark: 164, 170, 174;
+  --color-secondary-dark-text: 9, 9, 9;
+  --color-secondary-darker: 138, 144, 148;
+  --color-secondary-darker-text: 9, 9, 9;
+  --color-secondary-darkest: 113, 119, 123;
+  --color-secondary-darkest-text: 254, 254, 254;
+  --color-tertiary-base: 155, 89, 182;
+  --color-tertiary-base-text: 254, 254, 254;
+  --color-tertiary-light: 180, 114, 207;
+  --color-tertiary-light-text: 9, 9, 9;
+  --color-tertiary-lighter: 206, 140, 233;
+  --color-tertiary-lighter-text: 9, 9, 9;
+  --color-tertiary-lightest: 231, 165, 255;
+  --color-tertiary-lightest-text: 9, 9, 9;
+  --color-tertiary-dark: 130, 64, 157;
+  --color-tertiary-dark-text: 254, 254, 254;
+  --color-tertiary-darker: 104, 38, 131;
+  --color-tertiary-darker-text: 254, 254, 254;
+  --color-tertiary-darkest: 79, 13, 106;
+  --color-tertiary-darkest-text: 254, 254, 254;
+  --color-success-base: 46, 204, 113;
+  --color-success-base-text: 9, 9, 9;
+  --color-success-light: 71, 229, 138;
+  --color-success-light-text: 9, 9, 9;
+  --color-success-lighter: 97, 255, 164;
+  --color-success-lighter-text: 9, 9, 9;
+  --color-success-lightest: 122, 255, 189;
+  --color-success-lightest-text: 9, 9, 9;
+  --color-success-dark: 21, 179, 88;
+  --color-success-dark-text: 9, 9, 9;
+  --color-success-darker: 0, 153, 62;
+  --color-success-darker-text: 9, 9, 9;
+  --color-success-darkest: 0, 128, 37;
+  --color-success-darkest-text: 254, 254, 254;
+  --color-info-base: 52, 152, 219;
+  --color-info-base-text: 9, 9, 9;
+  --color-info-light: 77, 177, 244;
+  --color-info-light-text: 9, 9, 9;
+  --color-info-lighter: 103, 203, 255;
+  --color-info-lighter-text: 9, 9, 9;
+  --color-info-lightest: 128, 228, 255;
+  --color-info-lightest-text: 9, 9, 9;
+  --color-info-dark: 27, 127, 194;
+  --color-info-dark-text: 254, 254, 254;
+  --color-info-darker: 1, 101, 168;
+  --color-info-darker-text: 254, 254, 254;
+  --color-info-darkest: 0, 76, 143;
+  --color-info-darkest-text: 254, 254, 254;
+  --color-warning-base: 241, 196, 15;
+  --color-warning-base-text: 9, 9, 9;
+  --color-warning-light: 255, 221, 40;
+  --color-warning-light-text: 9, 9, 9;
+  --color-warning-lighter: 255, 247, 66;
+  --color-warning-lighter-text: 9, 9, 9;
+  --color-warning-lightest: 255, 255, 91;
+  --color-warning-lightest-text: 9, 9, 9;
+  --color-warning-dark: 216, 171, 0;
+  --color-warning-dark-text: 9, 9, 9;
+  --color-warning-darker: 190, 145, 0;
+  --color-warning-darker-text: 9, 9, 9;
+  --color-warning-darkest: 165, 120, 0;
+  --color-warning-darkest-text: 9, 9, 9;
+  --color-danger-base: 231, 76, 60;
+  --color-danger-base-text: 9, 9, 9;
+  --color-danger-light: 255, 101, 85;
+  --color-danger-light-text: 9, 9, 9;
+  --color-danger-lighter: 255, 127, 111;
+  --color-danger-lighter-text: 9, 9, 9;
+  --color-danger-lightest: 255, 152, 136;
+  --color-danger-lightest-text: 9, 9, 9;
+  --color-danger-dark: 206, 51, 35;
+  --color-danger-dark-text: 254, 254, 254;
+  --color-danger-darker: 180, 25, 9;
+  --color-danger-darker-text: 254, 254, 254;
+  --color-danger-darkest: 155, 0, 0;
+  --color-danger-darkest-text: 254, 254, 254;
+  --color-background-base: 44, 62, 80;
+  --color-background-base-text: 254, 254, 254;
+  --color-background-light: 69, 87, 105;
+  --color-background-light-text: 254, 254, 254;
+  --color-background-lighter: 95, 113, 131;
+  --color-background-lighter-text: 254, 254, 254;
+  --color-background-lightest: 120, 138, 156;
+  --color-background-lightest-text: 9, 9, 9;
+  --color-background-dark: 19, 37, 55;
+  --color-background-dark-text: 254, 254, 254;
+  --color-background-darker: 0, 11, 29;
+  --color-background-darker-text: 254, 254, 254;
+  --color-background-darkest: 0, 0, 4;
+  --color-background-darkest-text: 254, 254, 254;
+ }"
+`;
+
+exports[`CProvider > should render the light variant 1`] = `
+"* {
+  --color-primary-base: 52, 152, 219;
+  --color-primary-base-text: 9, 9, 9;
+  --color-primary-light: 77, 177, 244;
+  --color-primary-light-text: 9, 9, 9;
+  --color-primary-lighter: 103, 203, 255;
+  --color-primary-lighter-text: 9, 9, 9;
+  --color-primary-lightest: 128, 228, 255;
+  --color-primary-lightest-text: 9, 9, 9;
+  --color-primary-dark: 27, 127, 194;
+  --color-primary-dark-text: 254, 254, 254;
+  --color-primary-darker: 1, 101, 168;
+  --color-primary-darker-text: 254, 254, 254;
+  --color-primary-darkest: 0, 76, 143;
+  --color-primary-darkest-text: 254, 254, 254;
+  --color-secondary-base: 127, 140, 141;
+  --color-secondary-base-text: 9, 9, 9;
+  --color-secondary-light: 152, 165, 166;
+  --color-secondary-light-text: 9, 9, 9;
+  --color-secondary-lighter: 178, 191, 192;
+  --color-secondary-lighter-text: 9, 9, 9;
+  --color-secondary-lightest: 203, 216, 217;
+  --color-secondary-lightest-text: 9, 9, 9;
+  --color-secondary-dark: 102, 115, 116;
+  --color-secondary-dark-text: 254, 254, 254;
+  --color-secondary-darker: 76, 89, 90;
+  --color-secondary-darker-text: 254, 254, 254;
+  --color-secondary-darkest: 51, 64, 65;
+  --color-secondary-darkest-text: 254, 254, 254;
+  --color-tertiary-base: 46, 204, 113;
+  --color-tertiary-base-text: 9, 9, 9;
+  --color-tertiary-light: 71, 229, 138;
+  --color-tertiary-light-text: 9, 9, 9;
+  --color-tertiary-lighter: 97, 255, 164;
+  --color-tertiary-lighter-text: 9, 9, 9;
+  --color-tertiary-lightest: 122, 255, 189;
+  --color-tertiary-lightest-text: 9, 9, 9;
+  --color-tertiary-dark: 21, 179, 88;
+  --color-tertiary-dark-text: 9, 9, 9;
+  --color-tertiary-darker: 0, 153, 62;
+  --color-tertiary-darker-text: 9, 9, 9;
+  --color-tertiary-darkest: 0, 128, 37;
+  --color-tertiary-darkest-text: 254, 254, 254;
+  --color-success-base: 39, 174, 96;
+  --color-success-base-text: 9, 9, 9;
+  --color-success-light: 64, 199, 121;
+  --color-success-light-text: 9, 9, 9;
+  --color-success-lighter: 90, 225, 147;
+  --color-success-lighter-text: 9, 9, 9;
+  --color-success-lightest: 115, 250, 172;
+  --color-success-lightest-text: 9, 9, 9;
+  --color-success-dark: 14, 149, 71;
+  --color-success-dark-text: 9, 9, 9;
+  --color-success-darker: 0, 123, 45;
+  --color-success-darker-text: 254, 254, 254;
+  --color-success-darkest: 0, 98, 20;
+  --color-success-darkest-text: 254, 254, 254;
+  --color-info-base: 41, 128, 185;
+  --color-info-base-text: 254, 254, 254;
+  --color-info-light: 66, 153, 210;
+  --color-info-light-text: 9, 9, 9;
+  --color-info-lighter: 92, 179, 236;
+  --color-info-lighter-text: 9, 9, 9;
+  --color-info-lightest: 117, 204, 255;
+  --color-info-lightest-text: 9, 9, 9;
+  --color-info-dark: 16, 103, 160;
+  --color-info-dark-text: 254, 254, 254;
+  --color-info-darker: 0, 77, 134;
+  --color-info-darker-text: 254, 254, 254;
+  --color-info-darkest: 0, 52, 109;
+  --color-info-darkest-text: 254, 254, 254;
+  --color-warning-base: 243, 156, 18;
+  --color-warning-base-text: 9, 9, 9;
+  --color-warning-light: 255, 181, 43;
+  --color-warning-light-text: 9, 9, 9;
+  --color-warning-lighter: 255, 207, 69;
+  --color-warning-lighter-text: 9, 9, 9;
+  --color-warning-lightest: 255, 232, 94;
+  --color-warning-lightest-text: 9, 9, 9;
+  --color-warning-dark: 218, 131, 0;
+  --color-warning-dark-text: 9, 9, 9;
+  --color-warning-darker: 192, 105, 0;
+  --color-warning-darker-text: 9, 9, 9;
+  --color-warning-darkest: 167, 80, 0;
+  --color-warning-darkest-text: 254, 254, 254;
+  --color-danger-base: 231, 76, 60;
+  --color-danger-base-text: 9, 9, 9;
+  --color-danger-light: 255, 101, 85;
+  --color-danger-light-text: 9, 9, 9;
+  --color-danger-lighter: 255, 127, 111;
+  --color-danger-lighter-text: 9, 9, 9;
+  --color-danger-lightest: 255, 152, 136;
+  --color-danger-lightest-text: 9, 9, 9;
+  --color-danger-dark: 206, 51, 35;
+  --color-danger-dark-text: 254, 254, 254;
+  --color-danger-darker: 180, 25, 9;
+  --color-danger-darker-text: 254, 254, 254;
+  --color-danger-darkest: 155, 0, 0;
+  --color-danger-darkest-text: 254, 254, 254;
+  --color-background-base: 236, 240, 241;
+  --color-background-base-text: 9, 9, 9;
+  --color-background-light: 255, 255, 255;
+  --color-background-light-text: 9, 9, 9;
+  --color-background-lighter: 255, 255, 255;
+  --color-background-lighter-text: 9, 9, 9;
+  --color-background-lightest: 255, 255, 255;
+  --color-background-lightest-text: 9, 9, 9;
+  --color-background-dark: 211, 215, 216;
+  --color-background-dark-text: 9, 9, 9;
+  --color-background-darker: 185, 189, 190;
+  --color-background-darker-text: 9, 9, 9;
+  --color-background-darkest: 160, 164, 165;
+  --color-background-darkest-text: 9, 9, 9;
+ }"
+`;
+
+exports[`CProvider > should render the light variant with a custom class 1`] = `
+<div>
+  <div
+    class="_CProvider_4c759e test-class"
+    id="color-ui-provider"
+  />
+</div>
+`;

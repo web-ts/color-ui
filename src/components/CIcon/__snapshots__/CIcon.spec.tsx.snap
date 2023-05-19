@@ -1,0 +1,13 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`CIcon > should render 1`] = `<div />`;
+
+exports[`CIcon > should render an icon for the specified provider 1`] = `
+<div>
+  <span>
+    mdi:home
+  </span>
+</div>
+`;
+
+exports[`CIcon > should render empty div if no provider is set 1`] = `<div />`;
